@@ -1,0 +1,6 @@
+{
+  "name": "EcoControl",
+  "description": "Smart environment monitoring and control with live sensor telemetry, gauges, automated relay schedules, and alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
